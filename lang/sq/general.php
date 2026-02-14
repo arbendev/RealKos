@@ -168,15 +168,15 @@ return [
     'stats_cities' => 'Qytete të Mbuluara',
     'stats_happy' => 'Klientë të Kënaqur',
     'cta_title' => 'Gati për të Gjetur Shtëpinë e Ëndrrave?',
-    'cta_subtitle' => 'Bashkohuni me mijëra pronarë të lumtur që gjetën vendin e tyre perfekt me ProKos',
+    'cta_subtitle' => 'Bashkohuni me mijëra pronarë të lumtur që gjetën vendin e tyre perfekt me PronaList',
     'cta_search' => 'Kërko Prona',
     'cta_list' => 'Listo Pronën Tënde',
     'recent_title' => 'Të Shtuara Së Fundmi',
     'recent_subtitle' => 'Shikoni listat më të reja të pronave',
 
     // ── Fundi i Faqes ─────────────────────────────────
-    'footer_about' => 'Rreth ProKos',
-    'footer_about_text' => 'ProKos është tregu kryesor i pasurive të paluajtshme në Kosovë. Gjeni shtëpinë e ëndrrave, listoni pronën tuaj, ose lidhuni me agjentë të besuar.',
+    'footer_about' => 'Rreth PronaList',
+    'footer_about_text' => 'PronaList është tregu kryesor i pasurive të paluajtshme në Kosovë. Gjeni shtëpinë e ëndrrave, listoni pronën tuaj, ose lidhuni me agjentë të besuar.',
     'footer_links' => 'Lidhje të Shpejta',
     'footer_support' => 'Mbështetje',
     'footer_privacy' => 'Politika e Privatësisë',
@@ -194,7 +194,7 @@ return [
     'auth_login_title' => 'Mirë se u Kthyet',
     'auth_login_subtitle' => 'Hyni për të aksesuar llogarinë tuaj',
     'auth_register_title' => 'Krijo Llogari',
-    'auth_register_subtitle' => 'Bashkohuni me ProKos për të gjetur ose listuar prona',
+    'auth_register_subtitle' => 'Bashkohuni me PronaList për të gjetur ose listuar prona',
     'auth_remember' => 'Më mbaj mend',
     'auth_forgot' => 'Keni harruar fjalëkalimin?',
     'auth_or' => 'ose',
@@ -215,12 +215,12 @@ return [
     'learn_more' => 'Mëso Më Shumë',
 
     // ── Faqja Rreth ───────────────────────────────────
-    'about_title' => 'Rreth ProKos',
+    'about_title' => 'Rreth PronaList',
     'about_subtitle' => 'Platforma Kryesore e Pasurive të Paluajtshme në Kosovë',
     'about_mission' => 'Misioni Ynë',
     'about_mission_text' => 'Të bëjmë gjetjen dhe listimin e pronave në Kosovë të thjeshtë, transparente, dhe të aksesueshme për të gjithë.',
     'about_story' => 'Historia Jonë',
-    'about_story_text' => 'E themeluar me vizionin për të transformuar tregun e pasurive të paluajtshme në Kosovë, ProKos lidh pronarët, blerësit, dhe qiramarrësit përmes një platforme moderne dhe të lehtë për t\'u përdorur.',
+    'about_story_text' => 'E themeluar me vizionin për të transformuar tregun e pasurive të paluajtshme në Kosovë, PronaList lidh pronarët, blerësit, dhe qiramarrësit përmes një platforme moderne dhe të lehtë për t\'u përdorur.',
 
     // ── Faqja e Kontaktit ─────────────────────────────
     'contact_page_title' => 'Na Kontaktoni',

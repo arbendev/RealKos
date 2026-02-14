@@ -168,15 +168,15 @@ return [
     'stats_cities' => 'Cities Covered',
     'stats_happy' => 'Happy Clients',
     'cta_title' => 'Ready to Find Your Dream Home?',
-    'cta_subtitle' => 'Join thousands of happy homeowners who found their perfect place with ProKos',
+    'cta_subtitle' => 'Join thousands of happy homeowners who found their perfect place with PronaList',
     'cta_search' => 'Search Properties',
     'cta_list' => 'List Your Property',
     'recent_title' => 'Recently Added',
     'recent_subtitle' => 'Check out the latest property listings',
 
     // ── Footer ────────────────────────────────────────
-    'footer_about' => 'About ProKos',
-    'footer_about_text' => 'ProKos is Kosovo\'s leading real estate marketplace. Find your dream home, list your property, or connect with trusted agents.',
+    'footer_about' => 'About PronaList',
+    'footer_about_text' => 'PronaList is Kosovo\'s leading real estate marketplace. Find your dream home, list your property, or connect with trusted agents.',
     'footer_links' => 'Quick Links',
     'footer_support' => 'Support',
     'footer_privacy' => 'Privacy Policy',
@@ -194,7 +194,7 @@ return [
     'auth_login_title' => 'Welcome Back',
     'auth_login_subtitle' => 'Sign in to access your account',
     'auth_register_title' => 'Create Account',
-    'auth_register_subtitle' => 'Join ProKos to find or list properties',
+    'auth_register_subtitle' => 'Join PronaList to find or list properties',
     'auth_remember' => 'Remember me',
     'auth_forgot' => 'Forgot password?',
     'auth_or' => 'or',
@@ -215,12 +215,12 @@ return [
     'learn_more' => 'Learn More',
 
     // ── About Page ────────────────────────────────────
-    'about_title' => 'About ProKos',
+    'about_title' => 'About PronaList',
     'about_subtitle' => 'Kosovo\'s Premier Real Estate Platform',
     'about_mission' => 'Our Mission',
     'about_mission_text' => 'To make finding and listing properties in Kosovo simple, transparent, and accessible to everyone.',
     'about_story' => 'Our Story',
-    'about_story_text' => 'Founded with a vision to transform Kosovo\'s real estate market, ProKos connects property owners, buyers, and renters through a modern, user-friendly platform.',
+    'about_story_text' => 'Founded with a vision to transform Kosovo\'s real estate market, PronaList connects property owners, buyers, and renters through a modern, user-friendly platform.',
 
     // ── Contact Page ──────────────────────────────────
     'contact_page_title' => 'Get in Touch',
