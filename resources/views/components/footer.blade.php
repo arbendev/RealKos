@@ -45,7 +45,7 @@
         </div>
 
         <div class="footer-bottom text-center">
-            &copy; {{ date('Y') }} ProKos. {{ __('general.footer_rights') }}
+            &copy; {{ date('Y') }} PronaList. {{ __('general.footer_rights') }}
         </div>
     </div>
 </footer>
