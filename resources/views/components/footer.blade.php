@@ -4,7 +4,7 @@
         <div class="row g-4">
             {{-- About --}}
             <div class="col-lg-4 col-md-6">
-                <div class="footer-brand"><img src="{{ url('/') }}/img/pronalist-logo-w.png" class="img-fluid" style="height: 48px;"></div>
+                <div class="footer-brand"><img src="{{ url('/') }}/img/pronalist-logo-w.png" class="img-fluid" style="height: 60px;"></div>
                 <p class="footer-text">{{ __('general.footer_about_text') }}</p>
             </div>
 
