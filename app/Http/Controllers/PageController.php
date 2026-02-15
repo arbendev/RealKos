@@ -13,7 +13,7 @@ class PageController extends Controller
         $featured = Property::active()
             ->featured()
             ->with('images', 'propertyType')
-            ->limit(6)
+            ->limit(8)
             ->get();
 
         $recent = Property::active()
